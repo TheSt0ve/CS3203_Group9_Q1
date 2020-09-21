@@ -1,7 +1,10 @@
 Steven Johnson
 
+-----------
+
 Each of the requirements are fulfilled in the design. Air is recycled with the button on the bottom-right depicting three arrows in a circle. The fan speed is controlled by the bar on the left side with the fan next to it. Windshield de-fog is found on the button in the very bottom-right with the three arrows pointing upward. The vent positions are the buttons in the bottom-middle with a person sitting in a seat for reference. Temperature control is maintained with the rectangular bar in the center of the UI next to the thermometer.
 
+------------
 
 For customers in other countries, I chose to allow for convenient selection of units for the degrees. With one tap, the whole UI will change from Fahrenheit to Celsius or the other way around. I also chose to use pictures to describe each feature rather than words to minimize language barriers.
 
